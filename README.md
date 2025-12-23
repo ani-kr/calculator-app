@@ -37,3 +37,4 @@ It performs basic arithmetic operations and demonstrates front-end fundamentals.
 - Beginner-friendly JavaScript logic
 - No external libraries used
 
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/1a27238b-0268-4e6e-8d5e-44f17a9174a9" />
